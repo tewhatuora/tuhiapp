@@ -1,4 +1,4 @@
-##Frequently Asked Questions
+## Frequently Asked Questions
 
 **What is the purpose of the Tuhi application?**
 Tuhi is designed as an AI-Enabled Medical Transcription Assistant to enhance the efficiency and accuracy of medical documentation processes, aiming to reduce the administrative burden on healthcare professionals.
