@@ -1,7 +1,7 @@
-** This is a pages repository for the Tuhi app documentation for:<br>
+**This is a pages repository for the Tuhi app documentation for:**<br>
 <br>
-Frequently Asked Questions<br>
-Terms of Service<br>
-Privacy Statement
+- Frequently Asked Questions<br>
+- Terms of Service<br>
+- Privacy Statement
 
-Site link: 
+Site link: https://tewhatuora.github.io/tuhiapp/
