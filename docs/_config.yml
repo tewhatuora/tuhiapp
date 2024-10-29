@@ -5,4 +5,4 @@ nav:
   - Privacy: PrivacyStatement.md
   - Index: index.md
   - Terms and Conditions: terms.md
-theme: material
+theme: jekyll-theme-minimal
