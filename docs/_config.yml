@@ -4,4 +4,4 @@ nav:
   - FAQs: /docs/FAQ.md
   - Privacy: /docs/PrivacyStatement.md
   - Terms and Conditions: /docs/terms.md
-theme: jekyll-theme-minimal
+theme: jekyll-theme-just-the-docs
