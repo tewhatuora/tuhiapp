@@ -2,6 +2,6 @@ This site hosts the documents relating to the Tuhi App produced by Te Whatu Ora.
 
 [Terms and conditions](/tuhiapp/docs/terms.html)
 
-[Frequently Asked Questions](/tuhiapp/docs/FAQ.md)
+[Frequently Asked Questions](/tuhiapp/docs/FAQ.html)
 
-[Privacy Statement](tuhiapp/docs/PrivacyStatement,md)
+[Privacy Statement](tuhiapp/docs/PrivacyStatement,html)
