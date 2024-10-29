@@ -1,3 +1,7 @@
+layout: page
+title: "Terms of Use"
+permalink: https://tewhatuora.github.io/tuhiapp/docs/
+
 # Terms of use
 
 Tuhi is a service operated by Health New Zealand - Te Whatu Ora that allows clinicians top produce clinical documentation more efficiently.
