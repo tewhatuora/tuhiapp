@@ -1,7 +1,7 @@
 This site hosts the documents relating to the Tuhi App produced by Te Whatu Ora. To discuss this further please email: innovation@tewhatuora.govt.nz
 
-[Terms and conditions](/docs/terms.md)
+[Terms and conditions](/tuhiapp/docs/terms.md)
 
-[Frequently Asked Questions](/docs/FAQ.md)
+[Frequently Asked Questions](tuhiapp/docs/FAQ.md)
 
-[Privacy Statement](/docs/PrivacyStatement,md)
+[Privacy Statement](tuhiapp/docs/PrivacyStatement,md)
