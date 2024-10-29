@@ -2,7 +2,7 @@
 site_name: Tuhi - App Documentation
 nav:
   - Home: index.md
-  - FAQs: faq.md
+  - FAQs: FAQ.md
   - Privacy: PrivacyStatement.md
   - Index: index.md
   - Terms and Conditions: terms.md
