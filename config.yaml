@@ -1,0 +1,9 @@
+* comments
+site_name: Tuhi - App Documentation
+nav:
+  - Home: index.md
+  - FAQs: faq.md
+  - Privacy: PrivacyStatement.md
+  - Index: index.md
+  - Terms and Conditions: terms.md
+theme: material
