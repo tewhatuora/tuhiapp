@@ -1,8 +1,7 @@
 site_name: Tuhi - App Documentation
 nav:
-  - Home: index.md
-  - FAQs: FAQ.md
-  - Privacy: PrivacyStatement.md
-  - Index: index.md
-  - Terms and Conditions: terms.md
+  - Home: docs/index.md
+  - FAQs: docs/FAQ.md
+  - Privacy: docs/PrivacyStatement.md
+  - Terms and Conditions: docs/terms.md
 theme: jekyll-theme-minimal
