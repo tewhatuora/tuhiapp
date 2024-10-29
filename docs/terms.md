@@ -1,6 +1,6 @@
 layout: page
 title: "Terms of Use"
-permalink: https://tewhatuora.github.io/tuhiapp/docs/
+permalink: /tuhiapp/docs/
 
 # Terms of use
 
